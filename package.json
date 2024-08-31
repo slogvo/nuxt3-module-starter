@@ -12,9 +12,6 @@
         "type": "git",
         "url": "git+https://github.com/slogvo/nuxt3-module-starter.git"
     },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com"
-    },
     "license": "MIT",
     "type": "module",
     "exports": {
